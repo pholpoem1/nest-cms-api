@@ -32,6 +32,12 @@
 $ pnpm install
 ```
 
+## Docker Compose
+
+```bash
+$ docker compose up -d
+```
+
 ## Running the app
 
 ```bash
